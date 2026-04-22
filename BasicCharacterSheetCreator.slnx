@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BasicCharacterSheetCreator/BasicCharacterSheetCreator.vcxproj" Id="5b373660-98be-4b0f-8b41-effacda10966" />
+</Solution>
